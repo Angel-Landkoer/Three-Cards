@@ -13,16 +13,34 @@ html {
 .parent {
   display: flex;
 }
+#div-1 {
+  background-color: rgb(255, 113, 161);
+  color: aliceblue;
+}
 .one {
   border: 3px black solid;
   margin-left: 40px;
   padding-bottom: 50px;
 }
-p {
-  padding: 20px;
-}
 h3 {
   display: flex;
   justify-content: center;
   margin-top: 40%;
+}
+p {
+  padding: 20px;
+}
+a {
+  display: flex;
+  justify-content: space-around;
+
+  color: aliceblue;
+
+  background-color: black;
+
+  border-radius: 40px;
+}
+
+.a-1{
+  text-decoration: none;
 }
