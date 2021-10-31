@@ -84,6 +84,20 @@ button:active {
   margin-top: 13px;
   margin-bottom: 20px;
 }
+.fa-youtube {
+  font-size: 4rem;
+
+  margin-left: 40%;
+  margin-top: 13px;
+  margin-bottom: 20px;
+}
+.fa-twitter{
+  font-size: 4rem;
+
+  margin-left: 40%;
+  margin-top: 13px;
+  margin-bottom: 20px;
+}
 #button-1 {
   background-color: rgb(255, 255, 255);
   color: palevioletred;
